@@ -1,4 +1,4 @@
-<tv generator-info-name="Manus EPG Generator (URL Download)">
+<tv generator-info-name="Manus EPG Generator (URL Download, Escaped)">
   <channel id="AU | Kayo Event 01">
     <display-name>AU | Kayo Event 01</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
@@ -1287,8 +1287,8 @@
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250510010000 +0000" stop="20250510030000 +0000" channel="CA | DAZN Event 04">
-    <title lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</title>
-    <desc lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</desc>
+    <title lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</title>
+    <desc lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</desc>
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="CA | DAZN Event 05">
@@ -1597,8 +1597,8 @@
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250505140000 +0000" stop="20250505160000 +0000" channel="US | DAZN Event 17">
-    <title lang="en">Solihull Moors vs. Dagenham & Redbridge</title>
-    <desc lang="en">Solihull Moors vs. Dagenham & Redbridge</desc>
+    <title lang="en">Solihull Moors vs. Dagenham &amp; Redbridge</title>
+    <desc lang="en">Solihull Moors vs. Dagenham &amp; Redbridge</desc>
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250505123000 +0000" stop="20250505143000 +0000" channel="US | DAZN Event 18">
@@ -2302,8 +2302,8 @@
     <icon src="https://nwhostingservices.co.uk/logos/sky-sports/sky-sports-plus.png" />
   </programme>
   <programme start="20250505200000 +0000" stop="20250505220000 +0000" channel="CA | Sportsnet Now 01">
-    <title lang="en">Real Kyper & Bourne: May 5</title>
-    <desc lang="en">Real Kyper & Bourne: May 5</desc>
+    <title lang="en">Real Kyper &amp; Bourne: May 5</title>
+    <desc lang="en">Real Kyper &amp; Bourne: May 5</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505220000 +0000" stop="20250506000000 +0000" channel="CA | Sportsnet Now 02">
@@ -2317,8 +2317,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250506200000 +0000" stop="20250506220000 +0000" channel="CA | Sportsnet Now 04">
-    <title lang="en">Real Kyper & Bourne: May 6</title>
-    <desc lang="en">Real Kyper & Bourne: May 6</desc>
+    <title lang="en">Real Kyper &amp; Bourne: May 6</title>
+    <desc lang="en">Real Kyper &amp; Bourne: May 6</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505233000 +0000" stop="20250506013000 +0000" channel="CA | Sportsnet Now 06">
@@ -2327,13 +2327,13 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250506130000 +0000" stop="20250506150000 +0000" channel="CA | Sportsnet Now 07">
-    <title lang="en">Halford & Brough: May 6</title>
-    <desc lang="en">Halford & Brough: May 6</desc>
+    <title lang="en">Halford &amp; Brough: May 6</title>
+    <desc lang="en">Halford &amp; Brough: May 6</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505180000 +0000" stop="20250505200000 +0000" channel="CA | Sportsnet Now 08">
-    <title lang="en">Blair & Barker: May 5</title>
-    <desc lang="en">Blair & Barker: May 5</desc>
+    <title lang="en">Blair &amp; Barker: May 5</title>
+    <desc lang="en">Blair &amp; Barker: May 5</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250506220000 +0000" stop="20250507000000 +0000" channel="CA | Sportsnet Now 09">
@@ -2372,8 +2372,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505130000 +0000" stop="20250505150000 +0000" channel="CA | Sportsnet Now 16">
-    <title lang="en">Halford & Brough: May 5</title>
-    <desc lang="en">Halford & Brough: May 5</desc>
+    <title lang="en">Halford &amp; Brough: May 5</title>
+    <desc lang="en">Halford &amp; Brough: May 5</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250504223000 +0000" stop="20250505003000 +0000" channel="CA | Sportsnet Now 16">
@@ -2397,8 +2397,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505145000 +0000" stop="20250505165000 +0000" channel="CA | Sportsnet Now 21">
-    <title lang="en">Brighton & Hove Albion vs. Arsenal</title>
-    <desc lang="en">Brighton & Hove Albion vs. Arsenal</desc>
+    <title lang="en">Brighton &amp; Hove Albion vs. Arsenal</title>
+    <desc lang="en">Brighton &amp; Hove Albion vs. Arsenal</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505003000 +0000" stop="20250505023000 +0000" channel="CA | Sportsnet Now 22">
@@ -2412,8 +2412,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250506180000 +0000" stop="20250506200000 +0000" channel="CA | Sportsnet Now 24">
-    <title lang="en">Blair & Barker: May 6</title>
-    <desc lang="en">Blair & Barker: May 6</desc>
+    <title lang="en">Blair &amp; Barker: May 6</title>
+    <desc lang="en">Blair &amp; Barker: May 6</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250505160000 +0000" stop="20250505180000 +0000" channel="CA | Sportsnet Now 25">
@@ -2432,8 +2432,8 @@
     <icon src="http://ptvs.live:80/images/ff5ddaf107111dbe16ffa8a062e66309.png" />
   </programme>
   <programme start="20250510043000 +0000" stop="20250510063000 +0000" channel="AU | Stan Event 07">
-    <title lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</title>
-    <desc lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</desc>
+    <title lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</title>
+    <desc lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</desc>
     <icon src="http://ptvs.live:80/images/5cdfe3877e3c61858c8977e9fedae50a.png" />
   </programme>
   <programme start="20250510050000 +0000" stop="20250510070000 +0000" channel="AU | Stan Event 08">
@@ -2487,8 +2487,8 @@
     <icon src="http://ptvs.live:80/images/a2a393dd9153b7c1c7451755b69f48f2.png" />
   </programme>
   <programme start="20250510053000 +0000" stop="20250510073000 +0000" channel="AU | Stan Event 18">
-    <title lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</title>
-    <desc lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</desc>
+    <title lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</title>
+    <desc lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</desc>
     <icon src="http://ptvs.live:80/images/40dd5cbc8d6f862a78444648a683a5b0.png" />
   </programme>
   <programme start="20250515185500 +0000" stop="20250515205500 +0000" channel="UK | SuperLeague+ 01">
@@ -2697,8 +2697,8 @@
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250510010000 +0000" stop="20250510030000 +0000" channel="CA | DAZN Event 04">
-    <title lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</title>
-    <desc lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</desc>
+    <title lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</title>
+    <desc lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</desc>
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="CA | DAZN Event 05">
@@ -2987,8 +2987,8 @@
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250510010000 +0000" stop="20250510030000 +0000" channel="US | DAZN Event 13">
-    <title lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</title>
-    <desc lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</desc>
+    <title lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</title>
+    <desc lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</desc>
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250507150000 +0000" stop="20250507170000 +0000" channel="US | DAZN Event 14">
@@ -3052,8 +3052,8 @@
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250507010000 +0000" stop="20250507030000 +0000" channel="AU | Kayo Event 01">
-    <title lang="en">G1: T'Wolves v Warriors</title>
-    <desc lang="en">G1: T'Wolves v Warriors</desc>
+    <title lang="en">G1: T&#x27;Wolves v Warriors</title>
+    <desc lang="en">G1: T&#x27;Wolves v Warriors</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="AU | Kayo Event 02">
@@ -3822,8 +3822,8 @@
     <icon src="https://nwhostingservices.co.uk/logos/sky-sports/sky-sports-plus.png" />
   </programme>
   <programme start="20250507200000 +0000" stop="20250507220000 +0000" channel="CA | Sportsnet Now 01">
-    <title lang="en">Real Kyper & Bourne: May 7</title>
-    <desc lang="en">Real Kyper & Bourne: May 7</desc>
+    <title lang="en">Real Kyper &amp; Bourne: May 7</title>
+    <desc lang="en">Real Kyper &amp; Bourne: May 7</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250507203000 +0000" stop="20250507223000 +0000" channel="CA | Sportsnet Now 02">
@@ -3852,13 +3852,13 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250507180000 +0000" stop="20250507200000 +0000" channel="CA | Sportsnet Now 08">
-    <title lang="en">Blair & Barker: May 7</title>
-    <desc lang="en">Blair & Barker: May 7</desc>
+    <title lang="en">Blair &amp; Barker: May 7</title>
+    <desc lang="en">Blair &amp; Barker: May 7</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250508180000 +0000" stop="20250508200000 +0000" channel="CA | Sportsnet Now 09">
-    <title lang="en">Blair & Barker: May 8</title>
-    <desc lang="en">Blair & Barker: May 8</desc>
+    <title lang="en">Blair &amp; Barker: May 8</title>
+    <desc lang="en">Blair &amp; Barker: May 8</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="CA | Sportsnet Now 10">
@@ -3887,8 +3887,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250508130000 +0000" stop="20250508150000 +0000" channel="CA | Sportsnet Now 15">
-    <title lang="en">Halford & Brough: May 8</title>
-    <desc lang="en">Halford & Brough: May 8</desc>
+    <title lang="en">Halford &amp; Brough: May 8</title>
+    <desc lang="en">Halford &amp; Brough: May 8</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250508013000 +0000" stop="20250508033000 +0000" channel="CA | Sportsnet Now 16">
@@ -3922,8 +3922,8 @@
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250507130000 +0000" stop="20250507150000 +0000" channel="CA | Sportsnet Now 22">
-    <title lang="en">Halford & Brough: May 7</title>
-    <desc lang="en">Halford & Brough: May 7</desc>
+    <title lang="en">Halford &amp; Brough: May 7</title>
+    <desc lang="en">Halford &amp; Brough: May 7</desc>
     <icon src="http://ptvs.live:80/images/eGqxKQFYBvdaZ1gtJTHXnzhdWMcH9cjUCrPuZFkTta6KXU-XuBGltV1TpieW1C_z4h-2E_OQD63lFi08sLV6Dg.png" />
   </programme>
   <programme start="20250507150000 +0000" stop="20250507170000 +0000" channel="CA | Sportsnet Now 23">
@@ -3952,8 +3952,8 @@
     <icon src="http://ptvs.live:80/images/ff5ddaf107111dbe16ffa8a062e66309.png" />
   </programme>
   <programme start="20250510043000 +0000" stop="20250510063000 +0000" channel="AU | Stan Event 07">
-    <title lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</title>
-    <desc lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</desc>
+    <title lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</title>
+    <desc lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</desc>
     <icon src="http://ptvs.live:80/images/5cdfe3877e3c61858c8977e9fedae50a.png" />
   </programme>
   <programme start="20250510050000 +0000" stop="20250510070000 +0000" channel="AU | Stan Event 08">
@@ -4007,8 +4007,8 @@
     <icon src="http://ptvs.live:80/images/a2a393dd9153b7c1c7451755b69f48f2.png" />
   </programme>
   <programme start="20250510053000 +0000" stop="20250510073000 +0000" channel="AU | Stan Event 18">
-    <title lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</title>
-    <desc lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</desc>
+    <title lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</title>
+    <desc lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</desc>
     <icon src="http://ptvs.live:80/images/40dd5cbc8d6f862a78444648a683a5b0.png" />
   </programme>
   <programme start="20250510065600 +0000" stop="20250510085600 +0000" channel="AU | Stan Event 19">
@@ -4062,8 +4062,8 @@
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbN8hqQn-MLARrMP1zbriI9UcCa9Bj_l65pQ" />
   </programme>
   <programme start="20250510075300 +0000" stop="20250510095300 +0000" channel="UK | Amazon UK Event 09">
-    <title lang="en">Grand Prix of France - Free Practice 2 & Qualifying</title>
-    <desc lang="en">Grand Prix of France - Free Practice 2 & Qualifying</desc>
+    <title lang="en">Grand Prix of France - Free Practice 2 &amp; Qualifying</title>
+    <desc lang="en">Grand Prix of France - Free Practice 2 &amp; Qualifying</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbN8hqQn-MLARrMP1zbriI9UcCa9Bj_l65pQ" />
   </programme>
   <programme start="20250509165300 +0000" stop="20250509185300 +0000" channel="UK | Amazon UK Event 10">
@@ -4162,8 +4162,8 @@
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250510010000 +0000" stop="20250510030000 +0000" channel="CA | DAZN Event 04">
-    <title lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</title>
-    <desc lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</desc>
+    <title lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</title>
+    <desc lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</desc>
     <icon src="https://pbs.twimg.com/profile_images/1675112129249132544/gBxytFyx_400x400.jpg" />
   </programme>
   <programme start="20250510040500 +0000" stop="20250510060500 +0000" channel="CA | DAZN Event 05">
@@ -4447,8 +4447,8 @@
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250510010000 +0000" stop="20250510030000 +0000" channel="US | DAZN Event 13">
-    <title lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</title>
-    <desc lang="en">Atlanta Attack vs. Dallas Enforcers & Nashville Smash vs. Miami Assassins</desc>
+    <title lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</title>
+    <desc lang="en">Atlanta Attack vs. Dallas Enforcers &amp; Nashville Smash vs. Miami Assassins</desc>
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250510160000 +0000" stop="20250510180000 +0000" channel="US | DAZN Event 14">
@@ -4532,8 +4532,8 @@
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250509220000 +0000" stop="20250510000000 +0000" channel="AU | Kayo Event 06">
-    <title lang="en">Qualifying: Races 11 & 12</title>
-    <desc lang="en">Qualifying: Races 11 & 12</desc>
+    <title lang="en">Qualifying: Races 11 &amp; 12</title>
+    <desc lang="en">Qualifying: Races 11 &amp; 12</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250511023000 +0000" stop="20250511043000 +0000" channel="AU | Kayo Event 07">
@@ -4632,8 +4632,8 @@
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250510050000 +0000" stop="20250510070000 +0000" channel="AU | Kayo Event 26">
-    <title lang="en">Euro C'ship: D1</title>
-    <desc lang="en">Euro C'ship: D1</desc>
+    <title lang="en">Euro C&#x27;ship: D1</title>
+    <desc lang="en">Euro C&#x27;ship: D1</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250510051900 +0000" stop="20250510071900 +0000" channel="AU | Kayo Event 27">
@@ -5362,8 +5362,8 @@
     <icon src="http://ptvs.live:80/images/ff5ddaf107111dbe16ffa8a062e66309.png" />
   </programme>
   <programme start="20250510043000 +0000" stop="20250510063000 +0000" channel="AU | Stan Event 07">
-    <title lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</title>
-    <desc lang="en">Australia v New Zealand - O'Reilly Cup/Pacific Four Series 2025</desc>
+    <title lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</title>
+    <desc lang="en">Australia v New Zealand - O&#x27;Reilly Cup/Pacific Four Series 2025</desc>
     <icon src="http://ptvs.live:80/images/5cdfe3877e3c61858c8977e9fedae50a.png" />
   </programme>
   <programme start="20250510050000 +0000" stop="20250510070000 +0000" channel="AU | Stan Event 08">
@@ -5417,8 +5417,8 @@
     <icon src="http://ptvs.live:80/images/a2a393dd9153b7c1c7451755b69f48f2.png" />
   </programme>
   <programme start="20250510053000 +0000" stop="20250510073000 +0000" channel="AU | Stan Event 18">
-    <title lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</title>
-    <desc lang="en">Cottesloe v Associates - Women's WA Premier Grade Round 5 2025</desc>
+    <title lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</title>
+    <desc lang="en">Cottesloe v Associates - Women&#x27;s WA Premier Grade Round 5 2025</desc>
     <icon src="http://ptvs.live:80/images/40dd5cbc8d6f862a78444648a683a5b0.png" />
   </programme>
   <programme start="20250510065600 +0000" stop="20250510085600 +0000" channel="AU | Stan Event 19">
@@ -5982,8 +5982,8 @@
     <icon src="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXn7mgEmkjjX8PN2ZXEKzGUxW4I-bMXa0-w1Ds_9YtkM_Z.png" />
   </programme>
   <programme start="20250510210000 +0000" stop="20250510230000 +0000" channel="AU | Kayo Event 01">
-    <title lang="en">Oklahoma v Texas A&M</title>
-    <desc lang="en">Oklahoma v Texas A&M</desc>
+    <title lang="en">Oklahoma v Texas A&amp;M</title>
+    <desc lang="en">Oklahoma v Texas A&amp;M</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250511113000 +0000" stop="20250511133000 +0000" channel="AU | Kayo Event 02">
@@ -6122,8 +6122,8 @@
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250511050000 +0000" stop="20250511070000 +0000" channel="AU | Kayo Event 34">
-    <title lang="en">Euro C'ship: D2</title>
-    <desc lang="en">Euro C'ship: D2</desc>
+    <title lang="en">Euro C&#x27;ship: D2</title>
+    <desc lang="en">Euro C&#x27;ship: D2</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpeN2cntFB4gIKoCcw-2VBtP5lTDcgiqECnPQqXjfcccaw4zh-5PWPxyuWcLJc163vt0" />
   </programme>
   <programme start="20250511053000 +0000" stop="20250511073000 +0000" channel="AU | Kayo Event 35">
@@ -6342,8 +6342,8 @@
     <icon src="http://nwhostingservices.co.uk/logos/Peacock.png" />
   </programme>
   <programme start="20250512130000 +0000" stop="20250512150000 +0000" channel="US | Peacock Event 05">
-    <title lang="en">Nott'm Forest v. Leicester City</title>
-    <desc lang="en">Nott'm Forest v. Leicester City</desc>
+    <title lang="en">Nott&#x27;m Forest v. Leicester City</title>
+    <desc lang="en">Nott&#x27;m Forest v. Leicester City</desc>
     <icon src="http://nwhostingservices.co.uk/logos/Peacock.png" />
   </programme>
   <programme start="20250620185500 +0000" stop="20250620205500 +0000" channel="US | Peacock Event 06">
